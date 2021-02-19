@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "cName": "OYO",
+      "fName": "Saurabh Kumar",
+      "lName": "Jha",
+      "email": "saurabh.jha@oyorooms.com",
+      "pCode": "1998-12-13",
+      "mobile": "8271853820",
+      "pass": "saurabh@123",
+      "cPass": "saurabh@123",
+      "id": 1
+    },
+    {
+      "cName": "Traum",
+      "fName": "uysfsdo",
+      "lName": "ddcysd",
+      "email": "jha.s#aurabh@gmail.com",
+      "pass": "saurabh@123",
+      "cPass": "saurabh@123",
+      "id": 2
+    }
+  ]
+}
